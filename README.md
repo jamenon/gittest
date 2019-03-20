@@ -1,6 +1,6 @@
 # gittest
 <html>
-     <head><title>Login</title></head>
+     <head><title></title></head>
      <body>
          <form action="check.php">
              User Name : <input type="text" name="user"><br><br>
